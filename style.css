@@ -1,0 +1,29 @@
+body{
+    
+    background-image:linear-gradient(rgb(149, 165, 222),white,rgb(149, 165, 222));
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 2px;
+}
+
+.btn1{
+    height: 10%;
+    width: 40%;
+    font-size: 23px;
+    font-weight: bold;
+    border-radius: 6px;
+    box-shadow: inset 0px 0px 20px 11px rgb(11 10 12 / 41%);
+    letter-spacing: 2px;
+    background: rgba(1, 22, 255, 0.318);
+}
+
+.copy_right_footer{
+    position: sticky;
+    background: black;
+    width: 100%;
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 2px;
+    bottom: 0px;
+    line-height: 3;
+    color: white;
+}
